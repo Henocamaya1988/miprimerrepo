@@ -1,0 +1,4 @@
+#Aqui podemos colocar todos los archivos que queramos ignorar.
+#ignorar.txt con colocamos *.txt si tenemos muchos archivos con la extencion
+#.txt
+*.txt
